@@ -2,12 +2,16 @@
 *, *::before, *::after { 
    box-sizing: border-box;
 }
+
 body { 
    margin: 0;
    padding: 0;
-   background: #FFEBCD;
+   background-color: #FFEBCD;
    font-family: arial, sans-serif;
-   font-size: 1.2rem;
-   color: orangered;
+   
 }
 
+p {
+   font-size: 1.2rem;
+   color: #556B2F;
+}
